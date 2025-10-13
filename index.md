@@ -14,12 +14,14 @@ This site is my public learning log - a place to document what I build and under
 - “Gotchas” I’ve hit and how I fixed them
 - Checklists and commands I want to remember
 
-## Current focus
-- Docker & Kubernetes
-- Go
-- Python
-- Cloud Computing
-- Linux
+## Topics
+- [Cloud Computing](./cloud_computing.md)
+- [Docker](./docker.md)
+- [Kubernetes](./kubernetes.md)
+- [Terraform (Coming soon)](./terraform.md)
+- [Linux](./linux.md)
+- [Go](./go.md)
+- [Python](./python.md)
 
 ## Why I’m writing this
 Explaining things forces me to truly understand them.  

@@ -1,4 +1,9 @@
-# Hi, I'm Felix 👋
+---
+layout: home
+title: Welcome
+---
+
+# Hi, I'm Felix 
 
 I'm a C/C++ software developer transitioning into **Cloud Engineering**.  
 This site is my public learning log - a place to document what I build and understand along the way.

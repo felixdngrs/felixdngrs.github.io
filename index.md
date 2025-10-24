@@ -22,6 +22,7 @@ This site is my public learning log - a place to document what I build and under
 - [Linux](./linux.md)
 - [Go](./go.md)
 - [Python](./python.md)
+- [Projects](./projects.md)
 
 ## Why I’m writing this
 Explaining things forces me to truly understand them.  

@@ -1,4 +1,10 @@
+---
+layout: page
+title: fork(), Copy-on-Write, and smaps
+---
+
 # fork(), Copy-on-Write, and smaps
+...
 
 On Linux, `fork()` is one of those deceptively simple system calls that hides a lot of interesting behavior. It creates a new process, but it does *not* duplicate memory immediately. Instead, it relies on **Copy-on-Write (COW)** to make process creation fast and cheap.
 Understanding this mechanism is essential if you want to reason about memory usage, performance, and what tools like `/proc/[pid]/smaps` actually report.

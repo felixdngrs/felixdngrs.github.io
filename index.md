@@ -66,13 +66,6 @@ Common failure modes in low-level software.
 
 ---
 
-### Tooling
-Tools and techniques for observing system behavior.
-
-→ [Tooling](./tooling.md)
-
----
-
 ### C / C++
 Language-level notes and observations from practical use.
 
